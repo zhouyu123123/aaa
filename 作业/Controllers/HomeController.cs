@@ -13,5 +13,13 @@ namespace 作业.Controllers
         {
             return View();
         }
+
+        /// <summary>
+        /// ABC方法
+        /// </summary>
+        public ActionResult ABC()
+        {
+            return View();
+        }
     }
 }
